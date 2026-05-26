@@ -112,4 +112,6 @@ Fix it.
 
 In tennis, love means nothing.
 
-In nerd gifts, apparently it looks like this.
+But finding someone who gets excited about tiny keyboards and unnecessary overengineering?
+
+That feels statistically rarer.
