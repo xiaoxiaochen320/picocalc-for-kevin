@@ -33,6 +33,9 @@ Basically:
 - PicoCalc Official  
   https://www.clockworkpi.com/picocalc
 
+- PicoCalc Install Dont fuck it up!! Especially the screen!!!!
+  https://www.youtube.com/watch?v=JQWkGdok0R8&t=344s 
+
 - PicoCalc GitHub  
   https://github.com/clockworkpi/PicoCalc
 
