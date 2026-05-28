@@ -32,9 +32,12 @@ Basically:
 ### Official Stuff
 - PicoCalc Official  
   https://www.clockworkpi.com/picocalc
-
+  
 - PicoCalc Install Dont fuck it up!! Especially the screen!!!!
-  https://www.youtube.com/watch?v=JQWkGdok0R8&t=344s 
+  https://www.youtube.com/watch?v=JQWkGdok0R8&t=344s
+  
+- How to fuck around
+  https://forum.clockworkpi.com/c/picocalc/31
 
 - PicoCalc GitHub  
   https://github.com/clockworkpi/PicoCalc
