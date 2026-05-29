@@ -116,7 +116,7 @@ Fix it.
 
 ## Personal Note
 
-In tennis, love means nothing.
+In 🎾, love means nothing.
 
 But finding someone who gets excited about tiny keyboards and unnecessary overengineering?
 
