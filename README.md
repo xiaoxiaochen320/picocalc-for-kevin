@@ -34,6 +34,7 @@ Basically:
   https://www.clockworkpi.com/picocalc
   
 - PicoCalc Install Dont fuck it up!! Especially the screen!!!!
+  https://github.com/xiaoxiaochen320/picocalc-for-kevin/blob/main/Clockwork_PicoCalc_Assembly_Guidelines.pdf
   https://www.youtube.com/watch?v=JQWkGdok0R8&t=344s
   
 - How to fuck around
