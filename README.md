@@ -37,7 +37,7 @@ Basically:
   https://github.com/xiaoxiaochen320/picocalc-for-kevin/blob/main/Clockwork_PicoCalc_Assembly_Guidelines.pdf
   https://www.youtube.com/watch?v=JQWkGdok0R8&t=344s
   
-- How to fuck around
+- How to fuck around  
   https://forum.clockworkpi.com/c/picocalc/31
 
 - PicoCalc GitHub  
